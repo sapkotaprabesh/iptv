@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://sapkotaprabesh.github.io/nettv-epg/out/nettv.xml.gz"
+#EXTINF:-1 tvg-id="ntv-ntv" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="Nepali",NTV 
+https://iptv.prax.to/ntv/ntv
+#EXTINF:-1 tvg-id="ntv-ntv-plus" tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="Nepali",NTV Plus
+https://iptv.prax.to/ntv/ntv-plus
+#EXTINF:-1 tvg-id="ntv-ntv-news" tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="Nepali",NTV News 
+https://iptv.prax.to/ntv/ntv-news
+#EXTINF:-1 tvg-id="ntv-ntv-kohalpur" tvg-logo="https://ntv.newitventure.com//images/channel_logos/4.png" group-title="Nepali",NTV Kohalpur
+https://iptv.prax.to/ntv/ntv-kohalpur
+#EXTINF:-1 tvg-id="ntv-ntv-itahari" tvg-logo="https://ntv.newitventure.com//images/channel_logos/600.png" group-title="Nepali",NTV Itahari
+https://iptv.prax.to/ntv/ntv-itahari
+#EXTINF:-1 tvg-id="ntv-ntv-world" tvg-logo="https://ntv.newitventure.com//images/channel_logos/602.webp" group-title="Nepali",NTV WORLD
+https://iptv.prax.to/ntv/ntv-world

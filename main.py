@@ -1,5 +1,6 @@
 import os
 from http.server import HTTPServer, BaseHTTPRequestHandler
+import requests
 import json
 import urllib.parse
 from utils import nettv
@@ -13,11 +14,13 @@ class Redirect(BaseHTTPRequestHandler):
         splits = self.path.split('/')
         option = splits[1]
         path = '/'.join(splits[2:])
-        path = urllib.parse.unquote(path)
+        p_path = urllib.parse.unquote(path)
 
         if option=='nettv':
             wmsauthsign = nettv.get_authsign()
             out=f"{path}?wmsAuthSign="+wmsauthsign
+        if option=='ntv':
+            out = requests.get("https://ntv.newitventure.com/api/v1/ntv/home/detail?type=channel&slug="+path,headers={"key":"nitv@123_123"}).json()["link"]
         else: return
 
         self.send_response(302)

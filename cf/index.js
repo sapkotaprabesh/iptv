@@ -72,15 +72,14 @@ async function getAuthSign(env, isRetry = false) {
 }
 
 const nettvHandlers = {
-  async handleGet(request, url, env) {
-    const path = decodeURIComponent(url.pathname.replace('/nettv/', ''));
+  async handleGet(request, path, env) {
     const wmsauthsign = await getAuthSign(env);
     
     const targetUrl = `${path}?wmsAuthSign=${wmsauthsign}`;
     return Response.redirect(targetUrl, 302);
   },
 
-  async handlePost(request, url, env) {
+  async handlePost(request, path, env) {
     try {
       const data = await request.json();
       if (!data.access_token || !data.refresh_token) {
@@ -95,8 +94,20 @@ const nettvHandlers = {
   }
 };
 
+const ntvHandlers = {
+  async handleGet(request, path, env) {
+    const response = await fetch(`https://ntv.newitventure.com/api/v1/ntv/home/detail?type=channel&slug=${path}`, {
+      headers: { "key": "nitv@123_123" }
+    });
+    const data = await response.json();
+    console.log(path);
+    return Response.redirect(data.link, 302);
+  }
+};
+
 const providers = {
   'nettv': nettvHandlers,
+  'ntv': ntvHandlers,
 };
 
 export default {
@@ -116,13 +127,15 @@ export default {
       return new Response("N/A", { status: 404 });
     }
 
+    const path = decodeURIComponent(url.pathname.replace(`/${sourceKey}/`, ''));
+
     if (request.method === 'GET' && sourceHandler.handleGet) {
-      return await sourceHandler.handleGet(request, url, env);
+      return await sourceHandler.handleGet(request, path, env);
     }
 
     if (request.method === 'POST' && sourceHandler.handlePost) {
       if (url.pathname === `/${sourceKey}`) {
-        return await sourceHandler.handlePost(request, url, env);
+        return await sourceHandler.handlePost(request, path, env);
       }
     }
 
