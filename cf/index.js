@@ -75,7 +75,7 @@ const nettvHandlers = {
   async handleGet(request, path, env) {
     const wmsauthsign = await getAuthSign(env);
     
-    const targetUrl = `${path}?wmsAuthSign=${wmsauthsign}`;
+    const targetUrl = `https://ott-lb.nettv.com.np/${path}/playlist.m3u8?wmsAuthSign=${wmsauthsign}`;
     return Response.redirect(targetUrl, 302);
   },
 

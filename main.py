@@ -18,7 +18,7 @@ class Redirect(BaseHTTPRequestHandler):
 
         if option=='nettv':
             wmsauthsign = nettv.get_authsign()
-            out=f"{path}?wmsAuthSign="+wmsauthsign
+            out=f"https://ott-lb.nettv.com.np/{path}/playlist.m3u8?wmsAuthSign="+wmsauthsign
         if option=='ntv':
             out = requests.get("https://ntv.newitventure.com/api/v1/ntv/home/detail?type=channel&slug="+path,headers={"key":"nitv@123_123"}).json()["link"]
         else: return

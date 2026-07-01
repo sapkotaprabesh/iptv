@@ -1,253 +1,253 @@
 #EXTM3U x-tvg-url="https://sapkotaprabesh.github.io/nettv-epg/out/nettv.xml.gz"
 #EXTINF:-1 tvg-id="nettv-12" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-04-161618-5fca0ff692564-png" group-title="Nepali",Nepal TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/ntvnepalhdabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/ntvnepalhdabr.stream
 #EXTINF:-1 tvg-id="nettv-29" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/29-png" group-title="News",Euro News English
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/euronewsabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/euronewsabr.stream
 #EXTINF:-1 tvg-id="nettv-41" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/41-png" group-title="Nepali",Kantipur HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/kantipurhdabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/kantipurhdabr.stream
 #EXTINF:-1 tvg-id="nettv-42" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123214-61fb7a72bd299-png" group-title="Nepali",AP1 HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/ap1hdabr.stream
 #EXTINF:-1 tvg-id="nettv-43" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/43-png" group-title="Nepali",NTV News HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/ntvnewshdabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/ntvnewshdabr.stream
 #EXTINF:-1 tvg-id="nettv-44" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/44-png" group-title="Nepali",NTV Plus HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/ntvplushdabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/ntvplushdabr.stream
 #EXTINF:-1 tvg-id="nettv-45" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/45-png" group-title="Nepali",Avenues TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/avenuesabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/avenuesabr.stream
 #EXTINF:-1 tvg-id="nettv-46" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-09-171526-6989c552d864c-png" group-title="Nepali",News 24
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/news24abr.sstream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/news24abr.sstream
 #EXTINF:-1 tvg-id="nettv-48" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123230-61fb7a82be12a-png" group-title="Nepali",Image HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/imageabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/imageabr.stream
 #EXTINF:-1 tvg-id="nettv-49" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/49-png" group-title="Nepali",ABC News HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/abcnewsabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/abcnewsabr.stream
 #EXTINF:-1 tvg-id="nettv-50" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/50-png" group-title="Nepali",Sagarmatha TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/sagarmathaabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/sagarmathaabr.stream
 #EXTINF:-1 tvg-id="nettv-51" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/51-png" group-title="Nepali",Janata HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/jantahdabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/jantahdabr.stream
 #EXTINF:-1 tvg-id="nettv-53" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-155847-6134985b16114-png" group-title="Nepali",TV Today HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/tvtodayabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/tvtodayabr.stream
 #EXTINF:-1 tvg-id="nettv-54" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115215-60af3713dbed3-png" group-title="Nepali",Mountain TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/mountainabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/mountainabr.stream
 #EXTINF:-1 tvg-id="nettv-55" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-07-105107-64a79d3fe9ade-png" group-title="Nepali",Nari HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/tvfilmyabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/tvfilmyabr.stream
 #EXTINF:-1 tvg-id="nettv-56" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/56-png" group-title="Nepali",BTV Business
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/btvnepalabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/btvnepalabr.stream
 #EXTINF:-1 tvg-id="nettv-57" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115351-60af37730c1f6-png" group-title="Nepali",Business Plus HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/businessplusabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/businessplusabr.stream
 #EXTINF:-1 tvg-id="nettv-61" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/61-png" group-title="Nepali",NTV Kohalpur HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/ntvkohalpurabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/ntvkohalpurabr.stream
 #EXTINF:-1 tvg-id="nettv-63" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/63-png" group-title="Nepali",Channel 4 Nepal
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netCHFOUR1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netCHFOUR1500.stream
 #EXTINF:-1 tvg-id="nettv-64" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/64-png" group-title="Nepali",Indigenous Television
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/Indigenousfallback.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/Indigenousfallback.stream
 #EXTINF:-1 tvg-id="nettv-72" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-27-115419-60af378f8e6ce-png" group-title="Spiritual & Life",Bhakti Darshan HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/bhaktidarsanabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/bhaktidarsanabr.stream
 #EXTINF:-1 tvg-id="nettv-74" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/74-png" group-title="Spiritual & Life",Peace of Mind
-https://iptv.prax.to/nettv/https://ott-nettv-02.nettv.com.np/ott_abr/peaceofmindabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/peaceofmindabr.stream
 #EXTINF:-1 tvg-id="nettv-76" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/76-png" group-title="Spiritual & Life",Aastha
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/aasthaabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/aasthaabr.stream
 #EXTINF:-1 tvg-id="nettv-77" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/77-png" group-title="Spiritual & Life",Sanskar TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/sanskarabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/sanskarabr.stream
 #EXTINF:-1 tvg-id="nettv-108" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145732-63677a803e7d3-png" group-title="Spiritual & Life",Sony Sports Ten 1 HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/udpsports/udpTen1-SD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/udpsports/udpTen1-SD.stream
 #EXTINF:-1 tvg-id="nettv-109" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145855-63677ad3684a7-png" group-title="Spiritual & Life",Sony Sports Ten 2 HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/udpsports/udpTen2-SD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/udpsports/udpTen2-SD.stream
 #EXTINF:-1 tvg-id="nettv-110" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-145924-63677af01e20c-png" group-title="Spiritual & Life",Sony Sports Ten 3 HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/udpsports/udpTen3-SD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/udpsports/udpTen3-SD.stream
 #EXTINF:-1 tvg-id="nettv-111" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-06-150026-63677b2e91d15-png" group-title="Spiritual & Life",Sony Sports Ten 5 HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/udpsports/udpTen5-SD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/udpsports/udpTen5-SD.stream
 #EXTINF:-1 tvg-id="nettv-141" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/141-png" group-title="Spiritual & Life",Lotus Macau HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/lotusmacauabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/lotusmacauabr.stream
 #EXTINF:-1 tvg-id="nettv-204" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/204-png" group-title="Spiritual & Life",DW-TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/dwabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/dwabr.stream
 #EXTINF:-1 tvg-id="nettv-206" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/206-png" group-title="Spiritual & Life",TV 5 MONDE
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/tv5mondeabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/tv5mondeabr.stream
 #EXTINF:-1 tvg-id="nettv-211" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/211-png" group-title="Spiritual & Life",Arirang HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/arirangabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/arirangabr.stream
 #EXTINF:-1 tvg-id="nettv-212" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/212-png" group-title="Spiritual & Life",NHK World HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/nhkworldabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/nhkworldabr.stream
 #EXTINF:-1 tvg-id="nettv-221" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/221-png" group-title="Spiritual & Life",News Asia HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/newsasiaabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/newsasiaabr.stream
 #EXTINF:-1 tvg-id="nettv-227" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/227-png" group-title="Spiritual & Life",PeaceTv Urdu
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/peacetvabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/peacetvabr.stream
 #EXTINF:-1 tvg-id="nettv-228" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/228-png" group-title="Nepali",Nepal Mandal
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netNepalMandal1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netNepalMandal1500.stream
 #EXTINF:-1 tvg-id="nettv-229" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/229-png" group-title="International",Fashion TV Asia HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/fashiontvabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/fashiontvabr.stream
 #EXTINF:-1 tvg-id="nettv-230" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/230-png" group-title="International",France 24 English HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/france24abr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/france24abr.stream
 #EXTINF:-1 tvg-id="nettv-238" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/238-png" group-title="Spiritual & Life",Bodhi TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/iptvlive_abr/bodhitvabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/iptvlive_abr/bodhitvabr.stream
 #EXTINF:-1 tvg-id="nettv-239" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-08-125925-62021851184ef-png" group-title="Nepali",Mega TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/Megafallback.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/Megafallback.stream
 #EXTINF:-1 tvg-id="nettv-240" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/240-png" group-title="Spiritual & Life",Madani Channel
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/madaniabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/madaniabr.stream
 #EXTINF:-1 tvg-id="nettv-241" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/241-png" group-title="Spiritual & Life",TRT World HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/trtworldabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/trtworldabr.stream
 #EXTINF:-1 tvg-id="nettv-245" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/245-png" group-title="Nepali",YES TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/yestv_high.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/yestv_high.stream
 #EXTINF:-1 tvg-id="nettv-246" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/246-png" group-title="Nepali",Kastamandap Television
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/Kasthmandap/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/Kasthmandap
 #EXTINF:-1 tvg-id="nettv-257" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/257-png" group-title="Nepali",Arena TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/arenatv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/arenatv.stream
 #EXTINF:-1 tvg-id="nettv-267" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174459-62a1e0bfd8748-png" group-title="Nepali",Prime HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/primetvabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/primetvabr.stream
 #EXTINF:-1 tvg-id="nettv-276" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121810-606aaf2695875-png" group-title="Nepali",Tv Today Janakpur
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netTvTodayJkpr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netTvTodayJkpr.stream
 #EXTINF:-1 tvg-id="nettv-279" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/279-png" group-title="Nepali",Walling TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netwallingtv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netwallingtv.stream
 #EXTINF:-1 tvg-id="nettv-281" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-15-105137-62d0f5dd4d609-png" group-title="Nepali",Namaste Khowpa
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/namaste.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/namaste.stream
 #EXTINF:-1 tvg-id="nettv-282" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/282-png" group-title="International",ABC Australia 
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/iptvlive_abr/australiaabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/iptvlive_abr/australiaabr.stream
 #EXTINF:-1 tvg-id="nettv-284" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-10-21-171441-61714f25a8908-png" group-title="International",KBS Korea
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/kbsworldabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/kbsworldabr.stream
 #EXTINF:-1 tvg-id="nettv-291" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/291-png" group-title="Nepali",Janakpur TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netJanakpurtv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netJanakpurtv.stream
 #EXTINF:-1 tvg-id="nettv-293" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/293-png" group-title="Spiritual & Life",Angel TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netANGEL1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netANGEL1500.stream
 #EXTINF:-1 tvg-id="nettv-294" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/294-png" group-title="Nepali",Buddha  TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/ch1.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/ch1.stream
 #EXTINF:-1 tvg-id="nettv-322" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-01-02-214312-61d1cb943f5a7-png" group-title="Nepali",Paryawaran TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/paryawarantv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/paryawarantv.stream
 #EXTINF:-1 tvg-id="nettv-324" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121056-606aad74ebe13-png" group-title="Nepali",Bhadgaun Television
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/iptvlive_abr/bhadgaunabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/iptvlive_abr/bhadgaunabr.stream
 #EXTINF:-1 tvg-id="nettv-325" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/325-png" group-title="Nepali",Fewa TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netFewatv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netFewatv.stream
 #EXTINF:-1 tvg-id="nettv-326" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105249-606beca58dbdb-png" group-title="Nepali",Life Ok Nepal
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netlifeoknepal.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netlifeoknepal.stream
 #EXTINF:-1 tvg-id="nettv-329" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122543-62f2016ba9da3-png" group-title="Nepali",Zee Nepal 4K
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/znepaltv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/znepaltv.stream
 #EXTINF:-1 tvg-id="nettv-332" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/332-png" group-title="Spiritual & Life",Divya Darshan HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netDibyaDarsan1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netDibyaDarsan1500.stream
 #EXTINF:-1 tvg-id="nettv-360" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/360-png" group-title="Spiritual & Life",CGTN
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/cgtnhdabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/cgtnhdabr.stream
 #EXTINF:-1 tvg-id="nettv-397" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-12-085022-62a557f20885e-png" group-title="Nepali",Rapti Darpan HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netRAPTITV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netRAPTITV.stream
 #EXTINF:-1 tvg-id="nettv-398" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/398-png" group-title="Nepali",Omkar Television
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/Omkartv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/Omkartv.stream
 #EXTINF:-1 tvg-id="nettv-399" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/399-png" group-title="Nepali",Mithila TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netMithilatv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netMithilatv.stream
 #EXTINF:-1 tvg-id="nettv-406" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-164525-yoho-png" group-title="Nepali",Yoho TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netYohoTv1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netYohoTv1500.stream
 #EXTINF:-1 tvg-id="nettv-409" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2024-09-23-140731-66f125476fdb8-png" group-title="Nepali",Palika TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netANNATv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netANNATv.stream
 #EXTINF:-1 tvg-id="nettv-424" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2026-05-26-114424-6a1536bcb1352-png" group-title="Nepali",Hamro Kisan TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/kisantv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/kisantv.stream
 #EXTINF:-1 tvg-id="nettv-433" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105132-606bec585400e-png" group-title="Nepali",Channel ACE
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netChannelAce.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netChannelAce.stream
 #EXTINF:-1 tvg-id="nettv-475" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/475-png" group-title="Nepali",News Nepal
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netNewsNepal1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netNewsNepal1500.stream
 #EXTINF:-1 tvg-id="nettv-493" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/493-png" group-title="Nepali",Newa TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/NewaTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/NewaTV.stream
 #EXTINF:-1 tvg-id="nettv-502" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-01-110119-5efc1c2356a90-png" group-title="Nepali",Birat Television
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/iptvlive_abr/birattvabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/iptvlive_abr/birattvabr.stream
 #EXTINF:-1 tvg-id="nettv-522" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/522-png" group-title="Nepali",Lumbini TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netLumbiniTv1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netLumbiniTv1500.stream
 #EXTINF:-1 tvg-id="nettv-527" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/527-png" group-title="Nepali",Suryodaya Television 
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/SuryadayaTv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/SuryadayaTv.stream
 #EXTINF:-1 tvg-id="nettv-537" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/537-png" group-title="Nepali",TV Birgunj
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netTvBirgunjHD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netTvBirgunjHD.stream
 #EXTINF:-1 tvg-id="nettv-548" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/548-png" group-title="Nepali",Mukundasen HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netMukundaSenTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netMukundaSenTV.stream
 #EXTINF:-1 tvg-id="nettv-562" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/562-png" group-title="Spiritual & Life",Deep TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netDeepTv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netDeepTv.stream
 #EXTINF:-1 tvg-id="nettv-567" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/567-png" group-title="Spiritual & Life",DD Bharati
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/ddbharatiabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/ddbharatiabr.stream
 #EXTINF:-1 tvg-id="nettv-577" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-105202-606bec7630103-png" group-title="Nepali",Times TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/timestv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/timestv.stream
 #EXTINF:-1 tvg-id="nettv-591" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-12-11-123545-6576b145f1523-png" group-title="Nepali",Bagmati TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netBagmatiTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netBagmatiTV.stream
 #EXTINF:-1 tvg-id="nettv-606" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/606-png" group-title="Nepali",Sajha TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/sajhatv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/sajhatv.stream
 #EXTINF:-1 tvg-id="nettv-612" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-07-10-210619-5f08876fd2527-png" group-title="Nepali",Tharu Television
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netTharuTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netTharuTV.stream
 #EXTINF:-1 tvg-id="nettv-624" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-10-23-131203-6354ecc7389a6-png" group-title="Nepali",Kastamandap Gold HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/KARUWATV.STREAM/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/KARUWATV.STREAM
 #EXTINF:-1 tvg-id="nettv-633" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121508-606aae701e857-png" group-title="Nepali",Red TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/REDTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/REDTV.stream
 #EXTINF:-1 tvg-id="nettv-638" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-08-10-171354-5f312f76cf093-png" group-title="Nepali",NTV Itahari HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/ntvitshariabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/ntvitshariabr.stream
 #EXTINF:-1 tvg-id="nettv-643" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-01-154225-5f9e86853141f-png" group-title="Movies",METV  | HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/METVHDabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/METVHDabr.stream
 #EXTINF:-1 tvg-id="nettv-651" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-06-171917-606c47398f727-png" group-title="Nepali",Araniko HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/xraytv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/xraytv.stream
 #EXTINF:-1 tvg-id="nettv-656" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-20-115913-6007ca352cd52-png" group-title="Nepali",Capital TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netCapitalTvHD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netCapitalTvHD.stream
 #EXTINF:-1 tvg-id="nettv-683" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-02-153415-5f9fd61b2b520-png" group-title="Nepali",Prithivi TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/PrithiviTv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/PrithiviTv.stream
 #EXTINF:-1 tvg-id="nettv-688" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124937-5fe832051455f-png" group-title="Nepali",A1 TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/A1tv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/A1tv.stream
 #EXTINF:-1 tvg-id="nettv-693" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-11-13-132742-5fae38f21c8c6-png" group-title="Nepali",National Gold
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/NationalTVHD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/NationalTVHD.stream
 #EXTINF:-1 tvg-id="nettv-694" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2020-12-27-124920-5fe831f4cb3c1-png" group-title="Nepali",Buddha Awaaz
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/Buddhaawajtv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/Buddhaawajtv.stream
 #EXTINF:-1 tvg-id="nettv-703" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-04-05-121533-606aae898b564-png" group-title="Nepali",Saptrangi 
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/saptrangi.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/saptrangi.stream
 #EXTINF:-1 tvg-id="nettv-753" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-03-09-151153-622872ddab0b2-png" group-title="Nepali",Global TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netGlobalTvNep.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netGlobalTvNep.stream
 #EXTINF:-1 tvg-id="nettv-777" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-01-31-131827-60165d477593e-png" group-title="Nepali",Makalu TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netMakaluTvHD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netMakaluTvHD.stream
 #EXTINF:-1 tvg-id="nettv-779" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-03-08-110932-6045b510b3685-png" group-title="Nepali",Jansanchar TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netJanaSanchar.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netJanaSanchar.stream
 #EXTINF:-1 tvg-id="nettv-787" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-05-121847-613464cbebd07-png" group-title="Nepali",RAY TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/BijayKilla.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/BijayKilla.stream
 #EXTINF:-1 tvg-id="nettv-792" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-05-04-122835-6090ed17ef065-png" group-title="Nepali",Aam Nepali TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/AamNepaliTv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/AamNepaliTv.stream
 #EXTINF:-1 tvg-id="nettv-805" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-09-100434-6392b756cd59a-png" group-title="Nepali",GNN HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/prabhutvabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/prabhutvabr.stream
 #EXTINF:-1 tvg-id="nettv-822" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-07-09-160434-60e822b6085f8-png" group-title="Nepali",Janaki TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/JanakiTvHD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/JanakiTvHD.stream
 #EXTINF:-1 tvg-id="nettv-825" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-11-143427-64d5f617ad869-png" group-title="Nepali",Patanjali
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/PatanjaliNepal1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/PatanjaliNepal1500.stream
 #EXTINF:-1 tvg-id="nettv-830" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-03-19-101121-67da476db2566-png" group-title="Nepali",Nagarik TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netDevDaha1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netDevDaha1500.stream
 #EXTINF:-1 tvg-id="nettv-836" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-112743-6136fbd35b0ed-png" group-title="Nepali",City One HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netCity1HD1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netCity1HD1500.stream
 #EXTINF:-1 tvg-id="nettv-839" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-07-113437-6136fd715df1d-png" group-title="Nepali",Samata TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netSamataHD1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netSamataHD1500.stream
 #EXTINF:-1 tvg-id="nettv-842" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2021-09-20-145426-61484fc634701-png" group-title="Nepali",Him Shikhar TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netHimShikharTV1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netHimShikharTV1500.stream
 #EXTINF:-1 tvg-id="nettv-863" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-02-02-171344-679f56ec30f1a-png" group-title="Nepali",TNN HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netPanchaliTv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netPanchaliTv.stream
 #EXTINF:-1 tvg-id="nettv-875" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-04-26-165616-a new -jpg" group-title="Nepali",A News HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netAnews.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netAnews.stream
 #EXTINF:-1 tvg-id="nettv-878" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-06-09-174601-62a1e0fd0eeca-png" group-title="Nepali",Space 4K
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netSPACE4K.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netSPACE4K.stream
 #EXTINF:-1 tvg-id="nettv-882" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-20-103728-6997e88c77c6d-png" group-title="Nepali",Pokhara TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/PokharaTVabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/PokharaTVabr.stream
 #EXTINF:-1 tvg-id="nettv-898" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-07-04-104530-62c273eea1f67-png" group-title="Nepali",Nepal Network TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netNepalNetwork.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netNepalNetwork.stream
 #EXTINF:-1 tvg-id="nettv-904" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-09-122950-62f202624ee09-png" group-title="Nepali",Public Tv
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netPublicTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netPublicTV.stream
 #EXTINF:-1 tvg-id="nettv-910" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-08-15-052653-62f988412c3b0-png" group-title="Nepali",Namaste TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/national-chitwan.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/national-chitwan.stream
 #EXTINF:-1 tvg-id="nettv-931" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-11-13-161720-6370c7b4c7a63-png" group-title="Nepali",Nepa TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netNepaTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netNepaTV.stream
 #EXTINF:-1 tvg-id="nettv-941" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-12-15-161258-639af6ae48bb6-png" group-title="Nepali",Plus 1 4k
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/OnePlusHD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/OnePlusHD.stream
 #EXTINF:-1 tvg-id="nettv-946" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-02-06-111506-63e0905e64f8e-png" group-title="Spiritual & Life",Satya Tathya TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/SatyaTathyaTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/SatyaTathyaTV.stream
 #EXTINF:-1 tvg-id="nettv-976" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-06-24-220846-Koshi-png" group-title="Nepali",Koshi 4K
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/KoshiTvHD/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/KoshiTvHD
 #EXTINF:-1 tvg-id="nettv-979" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-07-16-102621-64b374f16ec26-png" group-title="Nepali",Sanghu TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/SanghuTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/SanghuTV.stream
 #EXTINF:-1 tvg-id="nettv-1003" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2023-08-11-143139-64d5f56fe1294-png" group-title="Spiritual & Life",Aastha Nepal
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/AasthaNepal1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/AasthaNepal1500.stream
 #EXTINF:-1 tvg-id="nettv-1006" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-14-120505-65a37d1522555-png" group-title="News",Sarokar TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/SAROKARTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/SAROKARTV.stream
 #EXTINF:-1 tvg-id="nettv-1012" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-162651-65b8d26fe2c2c-png" group-title="Music",Rodhi TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netRodhiTv1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netRodhiTv1500.stream
 #EXTINF:-1 tvg-id="nettv-1015" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2024-01-30-173633-65b8e2c588b4f-png" group-title="Nepali",Prisma TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netPrismaHD.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netPrismaHD.stream
 #EXTINF:-1 tvg-id="nettv-1029" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2024-06-05-134825-66601bcd937d1-png" group-title="Nepali",Sambridha TV HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netSambhridhaTvHD/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netSambhridhaTvHD
 #EXTINF:-1 tvg-id="nettv-1032" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2024-07-10-162801-668e65b5104bc-png" group-title="Nepali",Khwopa TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/KhwopaTv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/KhwopaTv.stream
 #EXTINF:-1 tvg-id="nettv-1167" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-09-112207-68467303810d6-png" group-title="Nepali",Sunrise HD
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/SunriseTv.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/SunriseTv.stream
 #EXTINF:-1 tvg-id="nettv-1170" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-11-153111-68495063a55fd-png" group-title="Nepali",GTV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ottlivestream/netGTV1500.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netGTV1500.stream
 #EXTINF:-1 tvg-id="nettv-1224" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-12-17-111734-6942407280fb4-png" group-title="Nepali",EN TV
-https://iptv.prax.to/nettv/ https://ott-lb.nettv.com.np/ottlivestream/netENTV.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ottlivestream/netENTV.stream
 #EXTINF:-1 tvg-id="nettv-1233" tvg-logo="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2026-02-17-131526-699419125836e-png" group-title="International",Kangba TV
-https://iptv.prax.to/nettv/https://ott-lb.nettv.com.np/ott_abr/kangbaabr.stream/playlist.m3u8
+https://iptv.prax.to/nettv/ott_abr/kangbaabr.stream

@@ -1,5 +1,7 @@
 import json
 from pathlib import Path
+from urllib.parse import urlparse
+import re
 
 from config import DOMAIN
 
@@ -14,7 +16,9 @@ txt='#EXTM3U x-tvg-url="https://sapkotaprabesh.github.io/nettv-epg/out/nettv.xml
 
 def build_inf(idz,link,title,logo,grp):
     global txt
-    link=f"https://{DOMAIN}/nettv/{link}"
+
+    path = urlparse(link).path
+    link=f"https://{DOMAIN}/nettv{re.sub("/playlist.m3u8$","",path)}"
     txt+=f'\n#EXTINF:-1 tvg-id="nettv-{idz}" tvg-logo="{logo}" group-title="{grp}",{title}\n{link}'
 
 for ch in chans:
