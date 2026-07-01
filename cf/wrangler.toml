@@ -1,0 +1,10 @@
+name = "iptv-streams"
+main = "index.js"
+compatibility_date = "2024-03-20"
+
+[[kv_namespaces]]
+binding = "IPTV_SESSIONS"
+id = "ab8db8c1b9d04c5cba65c0a50f0b7bbc"
+
+[triggers]
+crons = ["0 */2 * * *"]
