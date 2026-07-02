@@ -1,0 +1,74 @@
+{
+  "COMEDY_CENTRAL": {
+    "ufreetv": "USA_COMEDY_CENTRAL",
+    "": ""
+  },
+  "HBO": {
+    "ufreetv": "USA_HBO"
+  },
+  "BBC_AMERICA": {
+    "ufreetv": "USA_BBC_AMERICA",
+    "": ""
+  },
+  "CINEMAX": {
+    "ufreetv": "USA_CINEMAX",
+    "": ""
+  },
+  "FOOD_NETWORK": {
+    "ufreetv": "USA_FOOD_NETWORK",
+    "": ""
+  },
+  "BLOOMBERG": {
+    "ufreetv": "USA_BLOOMBERG",
+    "": ""
+  },
+  "MTV_LIVE": {
+    "ufreetv": "USA_MTV_LIVE",
+    "": ""
+  },
+  "MTV": {
+    "ufreetv": "USA_MTV",
+    "ufreetv-84": "mtv"
+  },
+  "NICKELODEON": {
+    "ufreetv": "USA_NICKELODEON"
+  },
+  "CARTOON_NETWORK": {
+    "ufreetv": "USA_CARTOON_NETWORK",
+    "ufreetv-84": "cartoonnetwork"
+  },
+  "DISNEY_XD": {
+    "ufreetv": "USA_DISNEY_XD",
+    "ufreetv-84": "disneyxd"
+  },
+  "NICKTOONS": {
+    "ufreetv-84": "nicktoons",
+    "": ""
+  },
+  "ANIMAL_PLANET": {
+    "ufreetv": "USA_ANIMAL_PLANET",
+    "ufreetv-84": "animalplanet"
+  },
+  "DISCOVERY": {
+    "ufreetv": "USA_DISCOVERY",
+    "ufreetv-84": "discovery"
+  },
+  "NAT_GEO": {
+    "ufreetv": "USA_NAT_GEO",
+    "ufreetv-84": "natgeo"
+  },
+  "NAT_GEO_WILD": {
+    "ufreetv": "USA_NAT_GEO_WILD",
+    "ufreetv-84": "natgeowild"
+  },
+  "HISTORY": {
+    "ufreetv-84": "history",
+    "": ""
+  },
+  "TLC": {
+    "ufreetv-84": "tlc"
+  },
+  "": {
+    "": ""
+  }
+}

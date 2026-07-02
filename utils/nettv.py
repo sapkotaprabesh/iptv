@@ -58,7 +58,7 @@ def get_authsign(is_retry=False):
     return wmsauthsign
 
 
-def receive_token(data):
+def handle_post(data):
     if not ('access_token' or 'refresh_token') in data: 
         return "missing parameters"
 
@@ -66,6 +66,11 @@ def receive_token(data):
 
     if legit: return "SUCCESS"
     else: return "INVALID"
+
+
+def get_link(option,path):
+    wmsauthsign = get_authsign()
+    return f"https://ott-lb.nettv.com.np/{path}/playlist.m3u8?wmsAuthSign="+wmsauthsign
 
 
 get_authsign()

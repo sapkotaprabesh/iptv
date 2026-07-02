@@ -1,3 +1,5 @@
+import CHANNEL_MAP from "./servicewise_channels_map.json";
+
 function parseJwt(token) {
   try {
     const base64Url = token.split('.')[1];
@@ -72,14 +74,14 @@ async function getAuthSign(env, isRetry = false) {
 }
 
 const nettvHandlers = {
-  async handleGet(request, path, env) {
+  async handleGet(request, option, path, env) {
     const wmsauthsign = await getAuthSign(env);
     
     const targetUrl = `https://ott-lb.nettv.com.np/${path}/playlist.m3u8?wmsAuthSign=${wmsauthsign}`;
     return Response.redirect(targetUrl, 302);
   },
 
-  async handlePost(request, path, env) {
+  async handlePost(request, option, path, env) {
     try {
       const data = await request.json();
       if (!data.access_token || !data.refresh_token) {
@@ -95,7 +97,7 @@ const nettvHandlers = {
 };
 
 const ntvHandlers = {
-  async handleGet(request, path, env) {
+  async handleGet(request, option, path, env) {
     const response = await fetch(`https://ntv.newitventure.com/api/v1/ntv/home/detail?type=channel&slug=${path}`, {
       headers: { "key": "nitv@123_123" }
     });
@@ -105,38 +107,59 @@ const ntvHandlers = {
   }
 };
 
+const ufreetvHandlers = {
+  async handleGet(request, option, path, env) {
+    const variants_map = {
+      "23": "23.237.104.106:8080",
+      "84": "84.17.50.102"
+    };
+
+    const variant = option.includes("-") ? option.split("-")[1] : "23";
+    const server = variants_map[variant];
+
+    const channelData = CHANNEL_MAP[path];
+    if (!channelData || !channelData[option]) {
+      return new Response("Channel or variant not found in map", { status: 404 });
+    }
+
+    const slug = channelData[option];
+    const targetUrl = `http://${server}/${slug}/index.m3u8`;
+    
+    return Response.redirect(targetUrl, 302);
+  }
+};
+
 const providers = {
   'nettv': nettvHandlers,
   'ntv': ntvHandlers,
+  'ufreetv': ufreetvHandlers
 };
 
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
-
     const pathSegments = url.pathname.split('/').filter(Boolean);
 
     if (pathSegments.length === 0) {
       return new Response("Nth here.", { status: 200 });
     }
 
-    const sourceKey = pathSegments[0];
-    const sourceHandler = providers[sourceKey];
+    const option = pathSegments[0];
+    const providerKey = option.split('-')[0]; 
+    const sourceHandler = providers[providerKey];
 
     if (!sourceHandler) {
       return new Response("N/A", { status: 404 });
     }
 
-    const path = decodeURIComponent(url.pathname.replace(`/${sourceKey}/`, ''));
+    const path = decodeURIComponent(url.pathname.replace(`/${option}/`, ''));
 
     if (request.method === 'GET' && sourceHandler.handleGet) {
-      return await sourceHandler.handleGet(request, path, env);
+      return await sourceHandler.handleGet(request, option, path, env);
     }
 
     if (request.method === 'POST' && sourceHandler.handlePost) {
-      if (url.pathname === `/${sourceKey}`) {
-        return await sourceHandler.handlePost(request, path, env);
-      }
+        return await sourceHandler.handlePost(request, option, path, env);
     }
 
     return new Response("Not Found", { status: 405 });
