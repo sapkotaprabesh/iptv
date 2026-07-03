@@ -102,7 +102,6 @@ const ntvHandlers = {
       headers: { "key": "nitv@123_123" }
     });
     const data = await response.json();
-    console.log(path);
     return Response.redirect(data.link, 302);
   }
 };
@@ -120,10 +119,34 @@ const variants_map = {'2063': '206.212.244.63', '23.9': '23.239.31.26:8989', '41
   }
 };
 
+const dlhdHandlers = {
+  async handleGet(request, option, path, env) {
+    const siteUrl = 'https://dlhd.st';
+    const headers = { "Referer": siteUrl };
+    
+      const r1 = await fetch(`${siteUrl}/stream/stream-${path}.php`, { headers });
+      const text1 = await r1.text();
+
+      const iframeMatch = text1.match(/<iframe src="([^"]+)"/);
+      if (!iframeMatch) throw new Error("Iframe link not found");
+
+      const r2 = await fetch(iframeMatch[1], { headers });
+      const text2 = await r2.text();
+      
+      const b64Match = text2.match(/window\.atob\('([^']+)'\)/);
+      if (!b64Match) throw new Error("Base64 encoded link not found");
+
+      const finalLink = atob(b64Match[1]);
+      return Response.redirect(finalLink, 302);
+
+  }
+};
+
 const providers = {
   'nettv': nettvHandlers,
   'ntv': ntvHandlers,
-  'ufreetv': ufreetvHandlers
+  'ufreetv': ufreetvHandlers,
+  'dlhd': dlhdHandlers
 };
 
 export default {

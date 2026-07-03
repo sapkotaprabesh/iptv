@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 r = requests.get("https://ntv.newitventure.com/api/v1/ntv/channels").json()
 
-txt='#EXTM3U x-tvg-url="https://sapkotaprabesh.github.io/nettv-epg/out/nettv.xml.gz"'
+txt='#EXTM3U'
 
 def build_inf(slug,title,logo):
     global txt

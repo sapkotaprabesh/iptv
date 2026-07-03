@@ -1,22 +1,23 @@
 {
   "COMEDY_CENTRAL": {
     "ufreetv": "USA_COMEDY_CENTRAL",
-    "": ""
+    "dlhd": 310
   },
   "HBO": {
-    "ufreetv": "USA_HBO"
+    "ufreetv": "USA_HBO",
+    "dlhd": 321
   },
   "BBC_AMERICA": {
     "ufreetv": "USA_BBC_AMERICA",
-    "": ""
+    "dlhd": 305
   },
   "CINEMAX": {
     "ufreetv": "USA_CINEMAX",
-    "": ""
+    "dlhd": 374
   },
   "FOOD_NETWORK": {
     "ufreetv": "USA_FOOD_NETWORK",
-    "": ""
+    "dlhd": "384"
   },
   "BLOOMBERG": {
     "ufreetv": "USA_BLOOMBERG",
@@ -28,47 +29,73 @@
   },
   "MTV": {
     "ufreetv": "USA_MTV",
-    "ufreetv-84": "mtv"
+    "ufreetv-84.2": "mtv",
+    "dlhd": 371
   },
   "NICKELODEON": {
-    "ufreetv": "USA_NICKELODEON"
+    "ufreetv": "USA_NICKELODEON",
+    "dlhd": 330
   },
   "CARTOON_NETWORK": {
     "ufreetv": "USA_CARTOON_NETWORK",
-    "ufreetv-84": "cartoonnetwork"
+    "ufreetv-84.2": "cartoonnetwork",
+    "dlhd": 339
   },
   "DISNEY_XD": {
     "ufreetv": "USA_DISNEY_XD",
-    "ufreetv-84": "disneyxd"
+    "ufreetv-84.2": "disneyxd",
+    "dlhd": 314
+  },
+  "DISNEY": {
+    "dlhd": 312
   },
   "NICKTOONS": {
-    "ufreetv-84": "nicktoons",
-    "": ""
+    "ufreetv-84.2": "nicktoons",
+    "dlhd": 649
   },
   "ANIMAL_PLANET": {
     "ufreetv": "USA_ANIMAL_PLANET",
-    "ufreetv-84": "animalplanet"
+    "ufreetv-84.2": "animalplanet",
+    "dlhd": 304
   },
   "DISCOVERY": {
     "ufreetv": "USA_DISCOVERY",
-    "ufreetv-84": "discovery"
+    "ufreetv-84.2": "discovery",
+    "dlhd": 313
   },
   "NAT_GEO": {
     "ufreetv": "USA_NAT_GEO",
-    "ufreetv-84": "natgeo"
+    "ufreetv-84.2": "natgeo"
   },
   "NAT_GEO_WILD": {
     "ufreetv": "USA_NAT_GEO_WILD",
-    "ufreetv-84": "natgeowild"
+    "ufreetv-84.2": "natgeowild",
+    "dlhd": 745
   },
   "HISTORY": {
-    "ufreetv-84": "history",
+    "ufreetv-84.2": "history",
     "": ""
   },
   "TLC": {
-    "ufreetv-84": "tlc"
+    "ufreetv-84.2": "tlc",
+    "dlhd": 337
   },
-  "": {
-    "": ""
+  "ADULT_SWIM": {
+    "dlhd": 295
+  },
+  "BEIN_SPORTS": {
+    "dlhd": 425
+  },
+  "ESPN": {
+    "dlhd": 44
+  },
+  "FOX_SPORTS": {
+    "dlhd": 39
+  },
+  "FASHION_TV": {
+    "dlhd": 744
+  },
+  "SONY_SPORTS": {
+    "dlhd": 885
   }
 }
