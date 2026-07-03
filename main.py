@@ -13,11 +13,14 @@ class Redirect(BaseHTTPRequestHandler):
     def do_GET(self):
         splits = self.path.split('/')
         option = splits[1]
-        p_option = option.split('-')[0]
         path = '/'.join(splits[2:])
-        p_path = urllib.parse.unquote(path)
 
-        util = importlib.import_module(f"utils.{p_option}")
+        if option in CHANNEL_MAP and CHANNEL_MAP[option]:
+            provider = next(iter(CHANNEL_MAP[option]))
+            path = CHANNEL_MAP[option][provider]
+            option = provider
+
+        util = importlib.import_module(f"utils.{option.split('-')[0]}")
 
         out = util.get_link(option,path)
 

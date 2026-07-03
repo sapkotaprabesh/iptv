@@ -114,13 +114,7 @@ const variants_map = {'2063': '206.212.244.63', '23.9': '23.239.31.26:8989', '41
     const variant = option.includes("-") ? option.split("-")[1] : "23.0";
     const server = variants_map[variant];
 
-    const channelData = CHANNEL_MAP[path];
-    if (!channelData || !channelData[option]) {
-      return new Response("Channel or variant not found in map", { status: 404 });
-    }
-
-    const slug = channelData[option];
-    const targetUrl = `http://${server}/${slug}/index.m3u8`;
+    const targetUrl = `http://${server}/${path}/index.m3u8`;
     
     return Response.redirect(targetUrl, 302);
   }
@@ -141,15 +135,21 @@ export default {
       return new Response("Nth here.", { status: 200 });
     }
 
-    const option = pathSegments[0];
+    let option = pathSegments[0];
+    let path = decodeURIComponent(pathSegments.slice(1).join('/'));
+
+    if (CHANNEL_MAP[option] && Object.keys(CHANNEL_MAP[option]).length > 0) {
+      const provider = Object.keys(CHANNEL_MAP[option])[0];
+      path = CHANNEL_MAP[option][provider];
+      option = provider;
+    }
+
     const providerKey = option.split('-')[0]; 
     const sourceHandler = providers[providerKey];
 
     if (!sourceHandler) {
       return new Response("N/A", { status: 404 });
     }
-
-    const path = decodeURIComponent(url.pathname.replace(`/${option}/`, ''));
 
     if (request.method === 'GET' && sourceHandler.handleGet) {
       return await sourceHandler.handleGet(request, option, path, env);
