@@ -142,11 +142,74 @@ const dlhdHandlers = {
   }
 };
 
+const streamsports99Handlers = {
+  async handleGet(request, option, path, env) {
+    try {
+      const decodedPath = decodeURIComponent(path);
+      const lastIdx = decodedPath.lastIndexOf("__");
+      if (lastIdx === -1) throw new Error("Invalid path format. Expected name__code");
+      
+      const name = decodedPath.substring(0, lastIdx);
+      const code = decodedPath.substring(lastIdx + 2);
+
+      const url = `https://cdnlivetv.tv/api/v1/channels/player/?name=${name}&code=${code}&user=cdnlivetv&plan=free`;
+      # const url = `https://cdnlivetv.tv/api/v1/channels/player/?name=${encodeURIComponent(name)}&code=${encodeURIComponent(code)}&user=cdnlivetv&plan=free`;
+      const response = await fetch(url);
+      const html = await response.text();
+
+      const vars = {};
+      const varRegex = /(?:var\s+)?(\w+)\s*=\s*'([^']+)'/g;
+      let match;
+      while ((match = varRegex.exec(html)) !== null) {
+        vars[match[1]] = match[2];
+      }
+
+      const funcMatch = html.match(/function (\w+)\(s\)\{/);
+      # const funcMatch = html.match(/function\s+(\w+)\s*\(s\)\s*\{/);
+      if (!funcMatch) throw new Error("Decoder function not found");
+      const funcName = funcMatch[1];
+
+      const callRegex = new RegExp(`${funcName}\\((\\w\\w+)\\)`, 'g');
+      # const callRegex = new RegExp(`${funcName}\\((\\w+)\\)`, 'g');
+      const chunks = [];
+      
+      while ((match = callRegex.exec(html)) !== null) {
+        const varName = match[1];
+        let b64Str = vars[varName];
+        
+        if (b64Str) {
+          b64Str = b64Str.replace(/-/g, '+').replace(/_/g, '/');
+          
+          while (b64Str.length % 4 !== 0) {
+            b64Str += '=';
+          }
+          
+          try {
+            chunks.push(atob(b64Str));
+          } catch (e) {
+            console.error(`Error decoding variable ${varName}:`, e);
+          }
+        }
+      }
+
+      const completeStreamUrl = chunks.join('');
+      if (!completeStreamUrl) throw new Error("Failed to assemble stream URL");
+
+      return Response.redirect(completeStreamUrl, 302);
+
+    } catch (error) {
+      return new Response(`Error: ${error.message}`, { status: 502 });
+    }
+  }
+};
+
+
 const providers = {
   'nettv': nettvHandlers,
   'ntv': ntvHandlers,
   'ufreetv': ufreetvHandlers,
-  'dlhd': dlhdHandlers
+  'dlhd': dlhdHandlers,
+  'streamsports99': streamsports99Handlers
 };
 
 export default {
